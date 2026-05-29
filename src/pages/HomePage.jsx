@@ -321,7 +321,7 @@ export default function HomePage() {
 
       {/* ── Hero ─────────────────────────────────────────────────────────── */}
       <section className="home-hero">
-        <div className="home-avatar">GU</div>
+        <div className="home-avatar"><img src="/guillermo.jpg" alt="Guillermo Ubeda Garay" width="72" height="72" /></div>
         <div className="home-hero-body">
           <div className="home-hero-top">
             <span className="home-hero-badge">{t.badge}</span>
